@@ -3,7 +3,7 @@
 Projets classés par typologie.
 
 ## Actuariat
-- [Dossier](./actuariat)
+- [Application des SGWTs aux taux de mortalité](./actuariat/pricing-glm/) — Application des SGWTs au taux de mortalité
 
 ## Data science
 
