@@ -6,12 +6,9 @@ Projets classés par typologie.
 - [Dossier](./actuariat)
 
 ## Data science
-
-
+- [Dossier](./DataScience)
 ## Théorique
-- [Chaîne de Markov cachée (PDF)](./theorique/chaine-de-markov-cachee.pdf)
-- [Estimateur par paquet (PDF)](./theorique/estimateur-par-paquet.pdf)
-- [Prédiction & analyse des séries temporelles (PDF)](./theorique/prediction-analyse-series-temporelles.pdf)
+- [Dossier](./Theorique)
 
 ## Autre 
-- [Compte rendu SAS (PDF)](./theorique/compte-rendu-sas-projet.pdf)
+- [Dossier](./Autre)
